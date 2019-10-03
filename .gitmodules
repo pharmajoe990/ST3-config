@@ -10,3 +10,6 @@
 [submodule "SublimeLinter-tslint"]
 	path = SublimeLinter-tslint
 	url = git@github.com:SublimeLinter/SublimeLinter-tslint.git
+[submodule "sublime"]
+	path = sublime
+	url = git@github.com:dracula/sublime.git

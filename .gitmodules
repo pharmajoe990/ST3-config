@@ -4,3 +4,9 @@
 [submodule "Typescript"]
 	path = Typescript
 	url = git@github.com:microsoft/TypeScript-Sublime-Plugin.git
+[submodule "SublimeLinter"]
+	path = SublimeLinter
+	url = git@github.com:SublimeLinter/SublimeLinter.git
+[submodule "SublimeLinter-tslint"]
+	path = SublimeLinter-tslint
+	url = git@github.com:SublimeLinter/SublimeLinter-tslint.git

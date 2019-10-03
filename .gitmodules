@@ -1,0 +1,6 @@
+[submodule "AFileIcon"]
+	path = AFileIcon
+	url = git@github.com:SublimeText/AFileIcon.git
+[submodule "Typescript"]
+	path = Typescript
+	url = git@github.com:microsoft/TypeScript-Sublime-Plugin.git

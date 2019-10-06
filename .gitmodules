@@ -13,3 +13,6 @@
 [submodule "sublime"]
 	path = sublime
 	url = git@github.com:dracula/sublime.git
+[submodule "Terraform.tmLanguage"]
+	path = Terraform.tmLanguage
+	url = git@github.com:alexlouden/Terraform.tmLanguage.git
